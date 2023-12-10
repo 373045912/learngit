@@ -1,3 +1,1 @@
-# learngit
-Hello World.....
-Google
+Creating a new branch is quick
